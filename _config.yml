@@ -26,7 +26,7 @@ github_username:  jessejervis
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: joebuhlig/jekyll-theme-collected
 plugins:
   - jekyll-feed
 
@@ -41,4 +41,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-remote_theme: joebuhlig/jekyll-theme-collected
+
